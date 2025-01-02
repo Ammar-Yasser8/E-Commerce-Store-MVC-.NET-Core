@@ -68,9 +68,16 @@ This repository contains a robust e-commerce application built with the MVC arch
 2. **Explore** the product catalog, add items to the cart, and proceed to checkout.
 3. **Admin users** can access the admin dashboard to manage the store.
 
-## **Contributing**
 
-Contributions are welcome! Please **fork** this repository, make your changes, and submit a **pull request**.
+## Contact
+
+For questions or feedback, please contact:  
+**Ammar Yasser**  
+**Email**: [ammar.yasser8920@gmail.com](mailto:ammar.yasser8920@gmail.com)  
+**LinkedIn**: [https://www.linkedin.com/in/ammar-yasser-a01772250/](https://www.linkedin.com/in/ammar-yasser-a01772250/)  
+**GitHub**: [https://github.com/Ammar-Yasser8](https://github.com/Ammar-Yasser8)  
+
+
 
 ## **License**
 
